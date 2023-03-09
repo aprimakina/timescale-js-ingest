@@ -1,0 +1,5 @@
+/node_modules
+/src/data/nyc_data_rides_full.csv
+.env
+.idea
+.DS_Store

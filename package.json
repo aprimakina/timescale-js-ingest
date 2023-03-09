@@ -1,0 +1,9 @@
+p{
+  "dependencies": {
+    "csv-parse": "^5.3.6",
+    "dotenv": "^16.0.3",
+    "pg": "^8.10.0",
+    "pg-copy-streams": "^6.0.5",
+    "yargs": "^17.7.1"
+  }
+}
